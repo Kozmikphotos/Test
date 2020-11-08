@@ -1,0 +1,23 @@
+/********tag selector********/
+body {
+  background-color: powderblue;
+color: purple;
+}
+
+h1{background-color: purple;
+  color:  white;}
+h2 {color: #61e7a5;}
+h3 {color: #d99e21;}
+h5 {color: #299f21;}
+hr {
+  border-color: #acc0f0;
+  border-style: none;
+  border-top-style: dashed;
+  border-width: 4px;
+  width: 15%;
+}
+img {height: 120px;}
+img:hover {background-color: gold; height: 130px;}
+table {padding-left: 30%}
+/********class selector******/
+.pic {border-radius: 100%;}
