@@ -1,0 +1,22 @@
+body {margin: 0; text-align: center;
+font-family:'Merriweather Sans', sans-serif;}
+
+
+
+h1{margin-top: 0;font-family: 'Sacramento', cursive;
+  font-size: 48px;
+    }
+    h2 {font-family: 'Montserrat', sans-serif;}
+
+
+p {padding-left: 10px}
+
+
+/************class*****************/
+
+.topcont {padding-top: 100px;position:relative; background-color: #dbf6e9; padding-left: 20px;}
+.middlecont {background-color: #fbeee8; width:200px; height:200px;}
+.bottomcont {background-color: #d884fe; width:200px; height:200px;}
+.are {text-decoration: underline;}
+.topcld {position:absolute;right:300px;top:50px;}
+.botcld {position:absolute;left:300px; bottom:300px;}
