@@ -22,7 +22,7 @@ table {padding-left: 10%; padding-right: 10%;}
 .middlecont { padding-top: 50px;background-color: #dbf6c7;}
 .bottomcont { padding-top: 50px;background-color: #dbf6a5;}
 .are {text-decoration: underline;}
-.topcld {position:absolute;right:400px;top:100px;}
+.topcld {position:absolute;right:20%;top:100px;}
 .botcld {position:absolute;left:400px; bottom:600px;}
 .topcld2 {position:relative;left:200px}
 .main {position:absolute;left:25%; #dbf6e9;padding-left: 25%;}
