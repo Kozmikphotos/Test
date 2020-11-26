@@ -19,8 +19,8 @@ table {padding-left: 10%; padding-right: 10%;}
 /************class*****************/
 
 .topcont { padding-top: 20px; background-color: #bdf6c6; padding-bottom: 10px}
-.middlecont { padding-top: 50px;background-color: #dbf6c7;}
-.bottomcont { padding-top: 50px;background-color: #dbf6a5;padding-bottom: 50px;}
+.middlecont { padding-top: 50px;padding-bottom: 50px;background-color: #dbf6c7;}
+.bottomcont { padding-top: 50px; background-color: #dbf6a5;padding-bottom: 50px;}
 .are {text-decoration: underline;}
 .topcld {position:absolute;right:100px;top:100px;}
 .botcld {position:absolute;left:150px; bottom:600px;}
