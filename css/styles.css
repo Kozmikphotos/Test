@@ -19,18 +19,18 @@ table {padding-left: 10%; padding-right: 10%;}
 /************class*****************/
 
 .topcont { padding-top: 20px; background-color: #bdf6c6; padding-bottom: 10px}
-.middlecont { padding-top: 50px;background-color: #dbf6c7;}
-.bottomcont { padding-top: 50px;background-color: #dbf6a5;padding-bottom: 50px;}
+.middlecont { padding-top: 50px;padding-bottom: 50px;background-color: #dbf6c7;}
+.bottomcont { padding-top: 50px; background-color: #dbf6a5;padding-bottom: 50px;}
 .are {text-decoration: underline;}
-.topcld {position:absolute;right:300px;top:100px;}
-.botcld {position:absolute;left:400px; bottom:600px;}
+.topcld {position:absolute;right:30px;top:100px;}
+.botcld {position:absolute;left:80px; bottom:600px;}
 .topcld2 {position:relative;left:200px}
 
 .mount {height: 350px}
 .skill-row {width: 50%;margin: 100px auto 100px auto; text-align: left;line-height: 2; }
 .chillies {margin-right: 30px; width: 20%; float: left;}
 .chillies2 {float: right;margin-left: 30px;width: 20%; }
-.chillies2:hover {background-color: #fcccff; border-radius:50%;}
+.chillies2:hover {background-color: #bdcccb; border-radius:50%;}
 .contact-me {width: 50%;margin: 100px auto 100px auto; }
 .btn {
   background: #66BFBF;
